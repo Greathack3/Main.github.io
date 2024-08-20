@@ -1,0 +1,23 @@
+Main-page for the website:
+
+features:
+
+- Include atleast 4 different apps to augment the neccesery sub-skills into becomming 
+modern detective, eventual changes to add osint will be implemented in the future
+
+- Write a descrptive and understandable, about website text that brings others to a thorough understanding 
+of the webpage
+
+- Create a gradient that changes color tone as you scroll down
+
+- Add that you can press the different apps shown on the site
+
+- add a footer for any borrowed message to avoid plagiarism 
+
+- Edit such that the size is auto-adjusted towards any devices
+
+- Pick appropriate image for every icon
+
+- Provide a link to be able to read more about deduction as an aide, and if possible add a voice 
+note so they can listen to it 
+
